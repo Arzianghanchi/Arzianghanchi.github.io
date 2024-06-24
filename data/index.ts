@@ -75,16 +75,16 @@ export const projects = [
     title: "Automated Instance Restart using SSM Documents and Run Command",
     des: "SSM document for restarting all EC2 instances:",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "www.google.com",
+    iconLists: [],
+    link: "https://github.com/Arzianghanchi/AWS-Automated-Instance-Restart",
   },
   {
     id: 2,
     title: "Deployment of a Website on AWS using Appache Server",
     des: "Deployment of a Website on AWS EC2 using Appache Server",
     img: "/nike.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    iconLists: [],
+    link: "https://github.com/Arzianghanchi/EC2-Apache-Deployment/blob/main/README.md",
   },
  
 
