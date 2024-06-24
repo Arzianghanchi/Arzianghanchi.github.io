@@ -76,7 +76,7 @@ export const projects = [
     des: "SSM document for restarting all EC2 instances:",
     img: "/p1.svg",
     iconLists: [],
-    link: "https://github.com/Arzianghanchi/AWS-Automated-Instance-Restart",
+    link: "https://github.com/Arzianghanchi/AWS-Automated-Instance-Restart/blob/main/README.md",
   },
   {
     id: 2,
