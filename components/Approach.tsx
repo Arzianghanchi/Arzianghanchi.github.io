@@ -10,7 +10,7 @@ const Approach = () => {
         <span className="text-purple">Case Study</span>
       </h1>
       {/* remove bg-white dark:bg-black */}
-      <div className="my-20 flex flex-col lg:flex-row items-left justify-left w-full gap-4">
+      <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
           title="ShopEasy Optimizes E-commerce Infrastructure on AWS"
