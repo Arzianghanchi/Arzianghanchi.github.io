@@ -104,8 +104,9 @@ const Card = ({
           {icon}
         </div>
         <h2
+        // To chnage the case study heading format|^^^^^^^|
           // change text-3xl, add text-center
-          className="dark:text-white text-center text-3xl opacity-0 group-hover/canvas-card:opacity-100
+          className="dark:text-white text-left text-3xl opacity-0 group-hover/canvas-card:opacity-100
          relative z-10 text-black mt-4  font-bold group-hover/canvas-card:text-white 
          group-hover/canvas-card:-translate-y-2 transition duration-200"
         >
@@ -114,7 +115,7 @@ const Card = ({
         {/* add this one for the description */}
         <p
           className="text-sm opacity-0 group-hover/canvas-card:opacity-100
-         relative z-10 mt-4 group-hover/canvas-card:text-white text-center
+         relative z-10 mt-4 group-hover/canvas-card:text-white text-left
          group-hover/canvas-card:-translate-y-2 transition duration-200"
           style={{ color: "#E4ECFF" }}
         >
@@ -139,7 +140,7 @@ const AceternityIcon = ({ order }: { order: string }) => {
         />
         <span
           className="inline-flex h-full w-full cursor-pointer items-center 
-        justify-center rounded-full bg-slate-950 px-5 py-2 text-purple backdrop-blur-3xl font-bold text-2xl"
+        justify- rounded-full bg-slate-950 px-5 py-2 text-purple backdrop-blur-3xl font-bold text-2xl"
         >
           {order}
         </span>
