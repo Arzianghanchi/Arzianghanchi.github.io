@@ -27,20 +27,7 @@ const Approach = () => {
           />
         </Card>
 
-        <Card
-          title="Case Study: ShopEasy Optimizes E-commerce Infrastructure"
-          icon={<AceternityIcon order="Phase 2" />}
-          des="ShopEasy Optimizes E-commerce Infrastructure on AWS: Balancing Cost and Performance
-          This case study outlines a cost-effective plan to optimize ShopEasy's e-commerce infrastructure hosted on AWS. 
-          The approach prioritizes achieving high availability, 
-          improved performance, and reduced downtime, all while maintaining flexibility and keeping costs under control."
-        >
-          <CanvasRevealEffect
-            animationSpeed={3}
-            containerClassName="bg-sky-600 rounded-3xl overflow-hidden"
-            colors={[[125, 211, 252]]}
-          />
-        </Card>
+
       </div>
     </section>
   );
