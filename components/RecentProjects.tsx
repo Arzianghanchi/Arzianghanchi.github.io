@@ -4,7 +4,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
-const someLink = "https://youtube.com";
+
 const RecentProjects = () => {
   return (
     <div className="py-20">
