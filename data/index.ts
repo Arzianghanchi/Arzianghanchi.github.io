@@ -1,7 +1,6 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "ClouisB", href: "https://cloudisb.vercel.app/" },
   { name: "Contact", link: "#contact" },
 ];
 
