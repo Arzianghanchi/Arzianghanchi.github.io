@@ -124,6 +124,12 @@ export const socialMedia = [
   },
   {
     id: 3,
+    img: "/cloudlg.svg",
+    link:"https://cloudisb.vercel.app/"
+    
+  },
+  {
+    id: 3,
     img: "/link.svg",
     link:"https://www.linkedin.com/in/arzian-ghanchi/"
     
