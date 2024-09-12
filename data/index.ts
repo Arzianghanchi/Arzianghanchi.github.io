@@ -99,13 +99,13 @@ export const workExperience = [
     thumbnail: "/exp1.svg",
   
   },
-  // {
-  //   id: 2,
-  //   title: "Devops Engineer",
-  //   desc: "Designed and developed CI/CD Pipeline",
-  //   className: "md:col-span-2", // change to md:col-span-2
-  //   thumbnail: "/exp2.svg",
-  // },
+  {
+    id: 2,
+    title: "Devops Engineer",
+    desc: "Designed and developed CI/CD Pipeline",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp2.svg",
+  },
 
 
 ];
