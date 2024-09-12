@@ -93,18 +93,18 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: "AWS Cloud Intern Intern",
-    desc: "Created Cloud INfrastructure.",
+    title: "AWS Cloud Quest: Cloud Practitioner",
+    desc: "Issued by Amazon Web Services Training and Certification.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "https://www.credly.com/badges/916b738c-bf7a-42a0-a6ff-d30ba9716750/public_url",
   },
-  {
-    id: 2,
-    title: "Devops Engineer",
-    desc: "Designed and developed CI/CD Pipeline",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
-  },
+  // {
+  //   id: 2,
+  //   title: "Devops Engineer",
+  //   desc: "Designed and developed CI/CD Pipeline",
+  //   className: "md:col-span-2", // change to md:col-span-2
+  //   thumbnail: "/exp2.svg",
+  // },
 
 
 ];
