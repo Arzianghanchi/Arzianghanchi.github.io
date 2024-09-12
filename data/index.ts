@@ -97,7 +97,7 @@ export const workExperience = [
     desc: "Issued by Amazon Web Services Training and Certification.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
-    alt:"https://www.credly.com/badges/916b738c-bf7a-42a0-a6ff-d30ba9716750/public_url",
+    link:"https://www.credly.com/badges/916b738c-bf7a-42a0-a6ff-d30ba9716750/public_url",
   },
   // {
   //   id: 2,
