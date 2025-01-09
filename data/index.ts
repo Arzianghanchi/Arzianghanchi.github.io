@@ -92,17 +92,9 @@ export const projects = [
 
 export const workExperience = [
   {
-    id: 1,
-    title: "AWS Cloud Quest: Cloud Practitioner",
-    desc: "Issued by Amazon Web Services Training and Certification.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  
-  },
-  {
     id: 2,
-    title: "Devops Engineer",
-    desc: "Designed and developed CI/CD Pipeline",
+    title: "DevOps Intern @ Clouddrove",
+    desc: "Intern at Clouddrove",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
